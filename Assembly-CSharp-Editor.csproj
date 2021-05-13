@@ -64,12 +64,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
-    <Compile Include="Assets\Scenes\Standard Assets\Editor\Water\Water4\GerstnerDisplaceEditor.cs" />
-    <Compile Include="Assets\Scenes\Standard Assets\Editor\Water\Water4\PlanarReflectionEditor.cs" />
-    <Compile Include="Assets\Scenes\Standard Assets\Editor\Water\Water4\SpecularLightingEditor.cs" />
-    <Compile Include="Assets\Scenes\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
-    <Compile Include="Assets\Scenes\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
+    <Compile Include="Assets\AssetPack\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+    <Compile Include="Assets\AssetPack\Standard Assets\Editor\Water\Water4\GerstnerDisplaceEditor.cs" />
+    <Compile Include="Assets\AssetPack\Standard Assets\Editor\Water\Water4\PlanarReflectionEditor.cs" />
+    <Compile Include="Assets\AssetPack\Standard Assets\Editor\Water\Water4\SpecularLightingEditor.cs" />
+    <Compile Include="Assets\AssetPack\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
+    <Compile Include="Assets\AssetPack\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
     <Reference Include="UnityEngine.Purchasing">
       <HintPath>C:/Unity Games Editor/R-Gon Assault/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
