@@ -31,6 +31,3 @@ public class MusicPlayer : MonoBehaviour
     // We have used a variable called "gameObject" of type "GameOject", which is already defined in the UnityEngine Package, so we dont need to define it. 
     //The gameObject variable here will be the Game Object to which the script is attached 
 }
-
-
-
